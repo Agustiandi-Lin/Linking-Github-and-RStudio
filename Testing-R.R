@@ -5,5 +5,3 @@ print("And now it lives on GitHub")
 print("Add something in new branches")
 
 print("Okay done !")
-
-print("Okay done !")
